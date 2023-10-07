@@ -1409,3 +1409,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2023.10.07-04.48.27:784][  1]LogAssetRegistry: AssetRegistryGather time 0.2614s: AssetDataDiscovery 0.0279s, AssetDataGather 0.1925s, StoreResults 0.0411s.
 [2023.10.07-04.48.27:807][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2023.10.07-04.48.27:841][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2023.10.07-04.50.15:328][324]LogDerivedDataCache: C:/Users/aleja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.451 and deleted 0 files with total size 0 MiB and 1490 empty folders. Scanned 652 files in 2575 folders with total size 14 MiB.
