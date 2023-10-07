@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/chrys/OneDrive/Documents/GitHub/Spoopygame/SpoopyGame/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/chrys/OneDrive/Documents/GitHub/Spoopygame/SpoopyGame/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/4T/IXLHWBLZ16A6OBJYVP0TTQ.uasset",
 				"C:/Users/aleja/Documents/GitHub/Spoopygame/SpoopyGame/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
