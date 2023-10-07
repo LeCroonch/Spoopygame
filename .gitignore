@@ -75,3 +75,7 @@ DerivedDataCache/*
 SpoopyGame/Saved/Logs/SpoopyGame.log
 *.log
 *.ini
+SpoopyGame/Intermediate/CachedAssetRegistry_0.bin
+*.bin
+*.ush
+*.log
